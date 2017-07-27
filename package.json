@@ -1,6 +1,6 @@
 {
   "name": "jquery-wildcard-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extending jquery selection to allow a way of selecting DOM elements by attributes with wildcards",
   "main": "src/jquery-wildcard-selector.js",
   "scripts": {
